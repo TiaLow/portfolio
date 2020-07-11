@@ -1,4 +1,5 @@
 # Lab 04b: RWD Portfolio
+<hr>
 
 ## Overview
 
@@ -18,24 +19,6 @@ For today's lab assignment, you will work independently to create a personal por
 
 ## User Acceptance Tests
 
-### Time Estimate
-
-For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
-
-```
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
-```
-
-Add this information to your README.
-
 ### Feature #1: Refactor the CSS 
 
 #### Why are we implementing this feature?
@@ -52,6 +35,20 @@ Then the portfolio contents should be displayed
 
 - Refactor the `main.css` file using SMACSS principles.
   - You may decide how many files to include, but at the minimum should include  `base.css`, `layout.css`, and `modules.css`. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a `modules` folder, if you feel that the code needs to be organized in that manner.
+
+### Time Estimate
+
+Number and name of feature: #1 Refactor the CSS
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 4:00pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+<hr>
 
 ### Feature #2: Modify the contents
 
@@ -77,6 +74,20 @@ Then the content should be unique and reflect the skills and personality of the 
 - Change the content and images to reflect your personal preferences. If you are using online images, make sure they are licensed for free, commercial use. For example, [Unsplash](https://unsplash.com/) has a nice variety of free images. 
 - Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
 - Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
+
+### Time Estimate
+
+Number and name of feature: #2 Modify the Contents
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+<hr>
 
 ## Submission Instructions
 
