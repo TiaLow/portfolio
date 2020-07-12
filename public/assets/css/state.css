@@ -1,3 +1,35 @@
+a:hover {
+  color: #E27689;
+  border-bottom-color: rgba(255, 255, 255, 0);
+}
+
+input[type="button"]:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+button:hover,
+.button:hover {
+  background-color: #9ececc;
+}
+
+#header .icons a:hover {
+  color: #fff;
+}
+
+#main > section.dark a:hover {
+  border-bottom-color: rgba(255, 255, 255, 0);
+}
+
+
+input[type="button"]:active,
+input[type="submit"]:active,
+input[type="reset"]:active,
+button:active,
+.button:active {
+  background-color: #7eaeac;
+}
+
+
+
 /* ============== Changes to containers in different states ================= */
 
 @media screen and (min-width: 961px) and (max-width: 1880px) {
