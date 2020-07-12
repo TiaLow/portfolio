@@ -40,13 +40,13 @@ Then the portfolio contents should be displayed
 
 Number and name of feature: #1 Refactor the CSS
 
-Estimate of time needed to complete: 2 hours
+Estimate of time needed to complete: 2 hr
 
 Start time: 4:00pm
 
-Finish time: _____
+Finish time: 6:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2.5 hr (split between July 10 and 11)
 
 <hr>
 
@@ -79,11 +79,11 @@ Then the content should be unique and reflect the skills and personality of the 
 
 Number and name of feature: #2 Modify the Contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1.5 hr
 
-Start time: _____
+Start time: 6:30pm
 
-Finish time: _____
+Finish time: (6:45pm on Sat)
 
 Actual time needed to complete: _____
 
