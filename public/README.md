@@ -46,7 +46,7 @@ Start time: 4:00pm
 
 Finish time: 6:30pm
 
-Actual time needed to complete: 2.5 hr (split between July 10 and 11)
+Actual time needed to complete: 2.5 hr
 
 <hr>
 
@@ -81,11 +81,11 @@ Number and name of feature: #2 Modify the Contents
 
 Estimate of time needed to complete: 1.5 hr
 
-Start time: 6:30pm (4:30pm on Sun)
+Start time: 6:30pm
 
-Finish time: (6:45pm on Sat)
+Finish time: 8:45pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2.25 hr
 
 <hr>
 
