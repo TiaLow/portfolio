@@ -81,7 +81,7 @@ Number and name of feature: #2 Modify the Contents
 
 Estimate of time needed to complete: 1.5 hr
 
-Start time: 6:30pm
+Start time: 6:30pm (4:30pm on Sun)
 
 Finish time: (6:45pm on Sat)
 
