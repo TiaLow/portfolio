@@ -1,4 +1,4 @@
-## *12/1/20: archived to preserve past work but signify stagnency 
+## *12/1/20: archived to preserve past work but signify stagnency*
 
 
 # Lab 04b: RWD Portfolio
